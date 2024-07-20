@@ -1,6 +1,6 @@
 # teachers_app
 
-A new Flutter project.
+Main file in "lib"
 
 ## Getting Started
 
